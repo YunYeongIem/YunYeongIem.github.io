@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -20,7 +20,7 @@ title                    : "비타민 C ><"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "임윤영"
-description              : "An amazing website."
+description              : "C언어 자기주도학습 도우미 ^-^"
 url                      : # the base hostname & protocol for your site e.g. "https://yunyeongiem.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "YunYeongIem/YunYeongIem.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "임윤영"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "ISFJ"
   location         : "대한민국, 서울"
   email            : "21-20624@hafs.hs.kr"
   links:
